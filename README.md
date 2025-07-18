@@ -13,3 +13,30 @@ This **concept** of cybersecurity is _essential_ for both **individuals _and_ or
 - Implement security features
 - Conduct risk assesments
 - Incident response
+- Educate and train
+- Stay updated
+
+## Major Divisions of Cybersecurity
+
+1. <ins>Blue Team</ins>
+      - Defensive security
+      - Infrastructure protection
+      - Damage control
+      - Incident response
+      - Operational security
+      - Threat hunters
+      - Digital forensics
+2. <ins>Red Team</ins>
+      - Offensive security
+      - Ethical hacking
+      - Exploiting vulnerabilities
+      - Penetration tools
+      - Black box testing
+      - Social engineering
+      - Web app scanning
+4. <ins>Purple Team</ins>
+      - Facilitate improvements in detection and defence
+      - Sharpen the skills of Blue and Red Teams' members
+      - Effective for spot-checking systems in larger organisations
+
+## 

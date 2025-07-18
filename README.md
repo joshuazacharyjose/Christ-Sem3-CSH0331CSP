@@ -32,7 +32,7 @@ This **concept** of cybersecurity is _essential_ for both **individuals _and_ or
       - Exploiting vulnerabilities
       - Penetration tools
       - Black box testing
-      - Social engineering
+      - Social engineering.
       - Web app scanning
 4. <ins>Purple Team</ins>
       - Facilitate improvements in detection and defence

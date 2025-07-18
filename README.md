@@ -43,3 +43,8 @@ This **concept** of cybersecurity is _essential_ for both **individuals _and_ or
 
 1. Phishing
 2. Ransomware
+3. Malware
+4. Social Engineering
+5. Man-in-the-Middle Attack
+6. Zero-Day Attack
+

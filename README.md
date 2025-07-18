@@ -39,4 +39,7 @@ This **concept** of cybersecurity is _essential_ for both **individuals _and_ or
       - Sharpen the skills of Blue and Red Teams' members
       - Effective for spot-checking systems in larger organisations
 
-## 
+## Types of Cybersecurity Threats
+
+1. Phishing
+2. Ransomware

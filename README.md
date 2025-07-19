@@ -32,7 +32,7 @@ This **concept** of cybersecurity is _essential_ for both **individuals _and_ or
       - Exploiting vulnerabilities
       - Penetration tools
       - Black box testing
-      - Social engineering.
+      - Social engineering
       - Web app scanning
 4. <ins>Purple Team</ins>
       - Facilitate improvements in detection and defence
@@ -41,10 +41,15 @@ This **concept** of cybersecurity is _essential_ for both **individuals _and_ or
 
 ## Types of Cybersecurity Threats
 
-1. Phishing
-2. Ransomware
-3. Malware
-4. Social Engineering
-5. Man-in-the-Middle Attack
-6. Zero-Day Attack
-
+1. <ins>Phishing</ins> <br>
+      It is the practice of sending fradulent emails that resemble emails from reputable sources. The aim is to steal sensitive data like credit card numbers, login information, et cetera.
+3. <ins>Ransomware</ins> <br>
+       It is a type of malicious software (malware). It is designed to extort money by blocking access to files or the computer system until the ransom is paid.
+4. <ins>Malware</ins> <br>
+      It is a type of software designed to gain unauthorized access or to cause damamge to a computer.
+5. <ins>Social Engineering</ins> <br>
+      It is a manipulation technique that exploits human error to gain private information, access or valuables.
+6. <ins>Man-in-the-Middle Attack</ins> <br>
+      It is when a criminal interrupts the traffic between a two-part transaction.
+7. <ins>Zero-Day Attack</ins> <br>
+      It is a computer-software vulnerability either unknown to those who should be interested in its mitigation, or known and without a patch to correct it. 

@@ -54,5 +54,33 @@ This **concept** of cybersecurity is _essential_ for both **individuals _and_ or
 7. <ins>Zero-Day Attack</ins> <br>
       It is a computer-software vulnerability either unknown to those who should be interested in its mitigation, or known and without a patch to correct it. 
 
+# *Introduction to Ethical Hacking*
+
+- <ins>Hacking</ins><br>
+A _process_ of **identifying and exploiting weaknesses** in a _system_ or a _network_, to gain **unauthorized** ***access*** to data and system resources.
+- <ins>Ethical Hacker</ins><br>
+A ***skilled*** _professional_ who has **excellent technical knowledge and skills**, and knows how to _identify and exploit vulnerabilites_ in **target** systems or networks, with the <ins>***permission***</ins> of the **owners** of said _systems or networks_.
+- <ins>Ethical Hacking</ins><br>
+Also known as <ins>**penetration testing**</ins>, **ethical hacking** is an act of _intruding or penetrating_ into the **system or networks**, to find out ***threats and vulnerabilites*** in those _systems or networks_.
 
 
+### _Familiarization with GitHub_
+
+1. To fork an exisiting repo
+   - Visit the repo that the instructor has shared.
+   - Fork it by clicking the 'Fork' button on the top right.
+   - In the next page, give it a different name and also a description.
+   - Finally, click on 'Create Fork'.
+2. To create a whole new repo
+   - Click on the 'New' button while at the GitHub dashboard page.
+   - Once redirected, give it a new name and description.
+   - The repo should be made public.
+   - Now check the box to create a README.md automatically.
+   - The license selected should be a MIT license
+   - Finally, click on 'Create repository
+3. To create files in the new repo
+   - On the main page of the repo you have just created.
+   - Click on 'Create new file'.
+   - In the new page redirected, you can fill up the directory as follow: '/Day01/README.md'.
+   - Finally, after compleing, and it will ask you to click on 'Commit chaages'.
+   

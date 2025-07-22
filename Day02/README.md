@@ -98,9 +98,18 @@ as mentioned below:
 
   - Here, in the VirtualBox software, click on **Settings**.
   - Under the **System** subsection, allocate the required RAM and CPU cores for Kali to run smoothly
+    <br>
+    <img width="680" height="137" alt="Screenshot 2025-07-22 070229" src="https://github.com/user-attachments/assets/5f4f7214-0c98-4c60-8126-b9a5020a82bf" />
+    <img width="664" height="130" alt="Screenshot 2025-07-22 070240" src="https://github.com/user-attachments/assets/30dfe1ea-7b5e-4056-916a-e5cff5176da3" />
+    
 > [!WARNING]
-> Make sure at least the minimum system requirements are met, and that enough resources are allocated for the smooth performance of your main machine.
+> Make sure at least the minimum system requirements are met, and that enough resources are allocated for the smooth performance of your main machine as well.
 
+  - Click on 'Start' to initialize the VM and wait patiently.
 
+    <img width="1919" height="1079" alt="Screenshot 2025-07-22 071055" src="https://github.com/user-attachments/assets/feab18e1-b422-4c46-8e0f-b5140263732b" />
+  - At the login screen, enter the 'Username' and 'Password' as _`kali`_,  and click on 'Log In'.
 
+    <img width="1919" height="1079" alt="Screenshot 2025-07-22 071317" src="https://github.com/user-attachments/assets/ecfc5cad-c108-4a7b-8c8a-3738bc6c9aa4" />
 
+  

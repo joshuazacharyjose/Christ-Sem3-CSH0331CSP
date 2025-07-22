@@ -86,3 +86,21 @@ as mentioned below:
     - **Virtual Machine Platform**
     - **Windows Hypervisor Platform**
   - Click **OK** and then restart the machine.
+ 
+    <img width="546" height="489" alt="Screenshot 2025-07-22 055803" src="https://github.com/user-attachments/assets/d4e99ab9-208e-4a96-a7d8-120201e9a6af" />
+
+  <hr>
+
+- ## Step 5: Launch and configure the Kali Linux VM
+  - In the folder where Kali files are extracted, open the **`.vbox`** file by double-clicking it.
+ 
+    <img width="1909" height="1079" alt="Screenshot 2025-07-22 060534" src="https://github.com/user-attachments/assets/bb7c5567-b736-42d9-948b-701c99cfc3ce" />
+
+  - Here, in the VirtualBox software, click on **Settings**.
+  - Under the **System** subsection, allocate the required RAM and CPU cores for Kali to run smoothly
+> [!WARNING]
+> Make sure at least the minimum system requirements are met, and that enough resources are allocated for the smooth performance of your main machine.
+
+
+
+

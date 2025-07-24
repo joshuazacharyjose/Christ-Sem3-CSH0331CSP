@@ -18,7 +18,7 @@
 
 
 > [!CAUTION]
-> Keep in mind to be cautious when exploring the many commands of Linux, as some might destroy the entire installation of Kali Linux.
+> Keep in mind to be cautious when exploring the many commands of Linux, as some might entirely mess up the installation of Kali Linux, leading to a reinstallation.
 ---
 
 - ## Installing and Setting Up Visual Studio Code in Kali Linux

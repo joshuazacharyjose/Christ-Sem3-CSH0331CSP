@@ -37,6 +37,16 @@
   6. After installation, type `code` to launch VSCode from the terminal or open it from the start menu.<br>
      <img width="1920" height="1080" alt="VirtualBox_kali-linux-2025 2-virtualbox-amd64_24_07_2025_21_54_51" src="https://github.com/user-attachments/assets/0b8ee21c-0ae0-4b12-95ba-aafa54139d2b" />
 
+     You can now run VSCode inside of Kali.
+
+---
+
+- ## How to Upgrade Kali to the Latest Version
+
+  At times, it is needed to upgrade to the most recent version of Kali Linux to install certain modules, payload, packages, et cetera:- for our cybersecurity practices. Here is a step-by-step guide on safely upgrading Kali Linux.
+
+  1. 
+
 
 
      

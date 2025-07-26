@@ -45,7 +45,58 @@
 
   At times, it is needed to upgrade to the most recent version of Kali Linux to install certain modules, payload, packages, et cetera:- for our cybersecurity practices. Here is a step-by-step guide on safely upgrading Kali Linux.
 
-  1. 
+  - First off, check your APT source list to ensure you're on the rolling release:
+
+  ```bash
+  sudo nano /etc/apt/sources.list
+  ```
+  - Now, you should replace the content with:
+
+  ```bash
+  deb http://http.kali.org/kali kali-rolling main non-free non-free-firmware contrib
+  ```
+  
+
+  1. ###  Check Current Kali Version
+     
+  ```bash
+  lsb_release -a
+  ```
+
+  2. ###  Update Package List
+     
+  ```bash
+  sudo apt update
+  ```
+
+  3. ###  Upgrade Installed Packages
+  For a regular upgrade, which is safer to do than a full upgrade:
+  
+  ```bash
+  sudo apt upgrade -y
+  ```
+  > <ins>Note:</ins> For a full-scale distribution upgrade, which is usually recommended to resolve any conflicts when installing certain packages, you can run the following command:
+  > ```bash
+  > sudo apt full-upgrade -y
+  > ```
+
+  4. ###  Remove Unused Packages
+
+  ```bash
+  sudo apt autoremove -y
+  ```
+
+  5. ### Ensure Core Kali Tools are installed
+ 
+  ```bash
+  sudo apt install -y kali-linux-default
+  ```
+
+  6. ### Reboot Kali Linux
+ 
+  ```bash
+  sudo reboot
+  ```
 
 
 
